@@ -1,0 +1,1 @@
+int forward_declaration_ext(int x, int y); // function prototype
